@@ -4,4 +4,8 @@ httpl://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-githu
 
 trying to modify the file
 
+
 modification depuis git hub
+
+et modif depuis ma machine locale
+
